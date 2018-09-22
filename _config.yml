@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaushal Yagnik"
 title_separator          : "-"
 name                     : &name "Kaushal Yagnik"
-description              : &description "Data Scientist @Microsoft Bangalore"
+description              : &description ""
 url                      : https://kbyagnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kbyagnik/kbyagnik.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Kaushal Yagnik"
   avatar           : "dp.png"
-  bio              : "Data & Applied Scientist"
-  location         : "Bangalore, India"
-  employer         : "Microsoft IDC"
+  bio              : "Master of Engineering, Data Science & Systems, UC Berkeley"
+  location         : "California"
+  employer         : "Berkeley"
   googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"
-  email            : "kbyagnik94@gmail.com"
+  email            : "kaushal.yagnik@berkeley.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -277,6 +277,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - font-awesome-sass
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
