@@ -1,4 +1,5 @@
 title	area	url_slug	technology	guide	date	affiliation	github_repo	excerpt
+Tweet Analysis	Data Science	trumptweets	"Python, Tweepy, VADER"		24/10/2018	UC Berkeley	https://github.com/kbyagnik/TweetsAnalysis	Sentiment analysis for tweets by Donald Trump with regards to US elections 2016
 SmartPlay	Machine Learning	smartplay	Python		27/07/2017	Microsoft Hackathon		"Offline, personalized playlist generation which uses MFCC audio features of a song to get the mood of the song using a pretrained model to enqueue it in Now Playing list."
 TraKinesics	"Computer Vision, Human Computer Interaction"	trakinesics	Octave/Matlab	Dr Deepti Bhatula	11/12/2014	Indian Institute of Technology Ropar	https://github.com/kbyagnik/TraKinesics	Manoeuvre screen-pointer using image processing techniques on hand-gestures from a webcam feed.
 OCR	"Machine Learning, Computer Vision"	ocr	Matlab	Dr CK Narayanan	15/10/2014	Indian Institute of Technology Ropar	https://github.com/kbyagnik/OCR-MLP	Handwritten digits recognition using Back-propagation in a Multi-layer perceptron on MNIST dataset.
