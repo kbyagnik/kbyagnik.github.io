@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kaushal Yagnik, currently pursuing graduate studies in data science at UC Berkeley. I'm passionate about using applied Machine Learning concepts for building impactful solutions by using large volumes of data being generated daily.  
-
-I'm currently working in team to understand the spread of misinformation and fake news on mobile devices for platforms like WhatsApp and WeChat.
-
+I'm Kaushal Yagnik, currently working as a data scientist at Walmart Labs, Sunnyvale CA. I'm passionate about using applied Machine Learning concepts for building impactful solutions. Currently working on ranking and retrieval problems in product search, I have earlier worked in the online advertisements divison at Microsoft Advertising to optimize the revenue generation for BingAds.
 
 My research interests include applied machine learning, optimization and game theory. Recently, my passion for music has inspired me to dig deeper into the interplay of music and machine learning. Someday, I aspire to make a state-of-the-art machine learning system which captures the emotion of a song and suggests similar songs according to user's temporal emotional state.  
 
